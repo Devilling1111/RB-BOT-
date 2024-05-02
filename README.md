@@ -2,10 +2,10 @@
   <img src="https://i.imgur.com/oapEhQg.gif" width="50" style="margin-right: 10px;"></a>
 </p>
 <h5 align="center">
-🔹RB-RASEL-KHAN
+🔹BOT-OWNER-BADOL-CHOWDHURY
 </h5>
 <img src="https://i.imgur.com/1hivRQi.jpeg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> RB BOT - Bot Chat Messenger</h1>
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> RB-BOT-Bot-Chat-Messenger</h1>
 
 <p align="center">
 	<a href="https://nodejs.org/dist/v11.30.0">
@@ -33,25 +33,25 @@
 - [📜 **License**](#-license)
 
 <div align="center">
-			<h3>My Replit Account ->
-			<a href="https://replit.com/@mdshakil019000" style="color: green;">@Raja-babu🔥</a>
+			<h3>BOT-OWNER ->
+			<a href="https://www.facebook.com/BADOL.CHOWDHURY.TERA.REAL.ABBU" style="color: green;">@BADOL-CHOWDHURY🔥</a>
 				<br>
-	My Facebook Account ->
-	<a href="https://www.facebook.com/swordigo.swordslush?mibextid=rS40aB7S9Ucbxw6v" style="color: black;">Rasel🚀</a></h3></div>
+	BOT-MODIFY ->
+	<a href="https://www.facebook.com/RAJA.BABU.TERA.REAL.ABBU.OK.07?mibextid=rS40aB7S9Ucbxw6v" style="color: black;">@RAJA-BABU🚀</a></h3></div>
 
 <img align="center" src="https://i.imgur.com/f6iiSqA.jpeg"/>
 
 
-🔹Mohammad Rasel
+🔹MOHAMMAD-BADOL-CHOWDHURY
 
 
-# Editing RASEL CHOWDHURY😘
+# Editing RB-RASEL-KHAN😘
 
-# RASEL-SUPPER-ROBOT real owner Mohammad Rasel-!!
+# RASEL-SUPPER-ROBOT REAL OWNER BADOL -!!
 
 # Everyone run this RB-ROBOT for fun
 
-# If there is any error, I will fix it by knocking on Facebook
+# If there is any error, I will fix it by @raja-babu on Facebook
 
 # https://www.facebook.com/RAJA.BABU.TERA.REAL.ABBU.OK.07
 
